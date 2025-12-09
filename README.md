@@ -43,7 +43,7 @@ Parameters:\
 --subject: Select the subject ID (1-9) or 10 (default) to load all from the dataset.
 
 ## Paper citation
-If you use our code and found it helpful, please cite our paper:
+If you use our code (entirely or partly) and found it helpful, please cite our paper:
 ```
 @ARTICLE{lemc_ftdb,
   author={Nzakuna, Pierre Sedi and Gallo, Vincenzo and CarratÙ, Marco and Paciello, Vincenzo and Pietrosanto, Antonio and Lay-Ekuakille, Aimé},
